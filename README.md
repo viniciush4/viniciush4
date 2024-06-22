@@ -1,6 +1,8 @@
 # Hello World 👋
 
-## 🚀 About me 
+<br>
+
+## 🤓 Sobre mim 
 <div style="margin-top: 20px">  
   <div>
     👨🏻‍💻 Software developer at @tiketo.com.br
