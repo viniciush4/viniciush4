@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciush4&count_private=true&show_icons=true&theme=github_dark_dimmed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciush4&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark_dimmed)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciush4)
 
 
 
