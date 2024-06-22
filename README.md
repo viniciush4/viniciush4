@@ -1,6 +1,7 @@
 # Hello World 👋
 
-## About me 🚀
+## 🚀 About me 
+<br>
 <div>
 👨🏻‍💻 Software developer at @tiketo.com.br
 </div>
