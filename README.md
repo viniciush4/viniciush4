@@ -1,9 +1,15 @@
 # Hello World 👋
 
 ## About me 🚀
+<div>
 👨🏻‍💻 Software developer at @tiketo.com.br
-🖥️ Cientista da Computação | UFES
+</div>
+<div>
+🖥️ Cientista da Computação | UFES  
+</div>
+<div>
 🎓 Bacharel em Administração de Empresas
+</div>
 
 
 <div>
