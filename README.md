@@ -1,5 +1,11 @@
 # Hello World 👋
 
+## About me 🚀
+👨🏻‍💻 Software developer at @tiketo.com.br
+🖥️ Cientista da Computação | UFES
+🎓 Bacharel em Administração de Empresas
+
+
 <div>
 <a href="https://github.com/viniciush4">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciush4&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
