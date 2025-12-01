@@ -1,27 +1,58 @@
-# Hello World 👋
+# 👋 Hello, I'm Vinícius Berger
 
-<br>
+Welcome to my corner of the internet!  
+I'm a Brazilian **Software Developer** and **CTO**, passionate about building scalable systems, solving real-world problems, and creating clean, maintainable code that survives production traffic spikes (yes, even ticket-sale madness).
 
-## 🤓 Sobre mim 
-<div style="margin-top: 20px">  
-  <div>
-    👨🏻‍💻 Software developer at @tiketo.com.br
-  </div>
-  <div>
-    🖥️ Cientista da Computação | UFES  
-  </div>
-  <div>
-    🎓 Bacharel em Administração de Empresas
-  </div>
-</div>
+---
 
-## 🚀 Contribuições
-<div>
-  <a href="https://github.com/viniciush4">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciush4&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciush4&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+## 🧑🏻‍💻 About Me
+
+- 🚀 **CTO & Software Developer** at [Tiketo](https://tiketo.com.br)  
+- 🎓 **B.Sc. in Computer Science** — Federal University of Espírito Santo (UFES)  
+- 🎓 **B.Sc. in Business Administration**  
+- ⚙️ Backend lover — **Laravel**, **PHP**, **Lumen**, **Redis**, **Queues**, **MySQL**
+- 📱 Mobile & Web — **Flutter**, **Quasar (Vue 2)**  
+- ☁️ DevOps curious — Load balancing, metrics, logs, monitoring  
+- 🎟️ Real experience with high-traffic systems (ticket sales, concurrency challenges & distributed workloads)
+
+---
+
+## 🧰 My Daily Tools
+
+**Languages & Frameworks**
+- PHP, Laravel, Lumen  
+- JavaScript, Vue, Quasar  
+- Dart & Flutter  
+- Java (Android)
+
+**Infra & DevOps**
+- Nginx / Apache  
+- Redis
+- MySQL  
+- GitHub Actions  
+- AWS (S3, basic stack)
+
+**Other tech I enjoy**
+- SVG, Inkscape
+- PDF/Excel generation for large datasets  
+- Authentication & gateway integrations
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [*viniciush4*](https://www.linkedin.com/in/viniciush4/) 
+- 📧 Email: viniciush4@gmail.com 
+
+---
+
+## 🧪 Fun Fact
+
+I enjoy making systems fast, stable and predictable — because nothing teaches you more about resilience than thousands of users buying tickets *at the exact same second*.
+
+---
+
+Thanks for visiting — feel free to explore my projects!  
 
 
 <!--
